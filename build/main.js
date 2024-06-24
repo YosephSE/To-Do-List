@@ -9,7 +9,7 @@ function clicked(){
 
 function add(){
     todos.push(input.value)
-    input.innerHTML = ""
+    input.value = ""
 }
 
 function show(){
