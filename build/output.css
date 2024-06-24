@@ -568,8 +568,25 @@ video {
   margin-right: 0.75rem;
 }
 
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.block {
+  display: block;
+}
+
 .flex {
   display: flex;
+}
+
+.h-screen {
+  height: 100vh;
+}
+
+.items-center {
+  align-items: center;
 }
 
 .justify-center {
